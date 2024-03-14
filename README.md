@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Machine Learning**
+- 🌱 I’m currently learning **Javascript, Vue, Express, Node.js & Machine Learning**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **orestavfilip@gmail.com**
 
-- ⚡ Fun fact **I love to cook. My signature dish is chicken curry with rice.**
+- ⚡ Fun fact **I love to exercise, play sports and cook. My signature dish is chicken curry with rice.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
